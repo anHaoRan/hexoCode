@@ -88,3 +88,5 @@ typings/
 .dynamodb/
 # Mac 
 *.DS_Store
+
+public
